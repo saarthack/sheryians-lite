@@ -27,6 +27,8 @@
     "typescript-eslint": "^8.35.0"
   },
   "dependencies": {
+    "@types/dotenv": "^8.2.3",
+    "dotenv": "^16.5.0",
     "express": "^5.1.0"
   }
 }
