@@ -16,11 +16,15 @@
   "author": "sarthak sharma",
   "license": "ISC",
   "devDependencies": {
+    "@eslint/js": "^9.29.0",
     "@types/express": "github:types/express",
     "@types/node": "^24.0.4",
+    "eslint": "^9.29.0",
+    "globals": "^16.2.0",
     "nodemon": "^3.1.10",
     "ts-node": "^10.9.2",
-    "typescript": "^5.8.3"
+    "typescript": "^5.8.3",
+    "typescript-eslint": "^8.35.0"
   },
   "dependencies": {
     "express": "^5.1.0"
