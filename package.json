@@ -1,0 +1,28 @@
+{
+  "name": "sheryians-lite",
+  "version": "1.0.0",
+  "description": "APIs of sheryians.com",
+  "main": "index.ts",
+  "scripts": {
+    "dev": "nodemon index.ts"
+  },
+  "keywords": [
+    "api",
+    "sheryians",
+    "node",
+    "express",
+    "mongodb"
+  ],
+  "author": "sarthak sharma",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/express": "github:types/express",
+    "@types/node": "^24.0.4",
+    "nodemon": "^3.1.10",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.3"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
